@@ -96,9 +96,17 @@ Busco minha primeira oportunidade como desenvolvedor, com foco em desenvolviment
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ds091339@gmail.com)
+<a href="mailto:ds091339@gmail.com">
+  <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-macedo33/)
+<a href="https://linkedin.com/in/daniel-macedo33/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://macedoo15.github.io/portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfólio-A855F7?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
 
 </div>
 
