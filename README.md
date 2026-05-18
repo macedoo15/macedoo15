@@ -1,12 +1,13 @@
 <div align="center">
 
 <!-- HEADER ANIMADO -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0A1F,50:5B21B6,100:7C3AED&height=240&section=header&text=Daniel%20Macedo&fontSize=65&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Backend%20Focus&descAlignY=60&descSize=20&animation=fadeIn" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0A1F,50:5B21B6,100:7C3AED&height=240&section=header&text=Daniel%20Macedo&fontSize=65&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=60&descSize=20&animation=fadeIn" />
 
 <br/>
 
 <!-- TYPING EFFECT -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+o+Daniel!+👋;Desenvolvedor+Back-End+💻;Foco+em+Node.js+e+Redes;Construindo+projetos+reais+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+o+Daniel!+👋;Desenvolvedor+Full-Stack+💻;Foco+em+Node.js+e+NestJS;Construindo+projetos+reais+🚀" />
 
 <br/>
 
@@ -32,7 +33,7 @@ const Daniel Macedo = {
   atualmente: [
     "Bootcamp Generation Brasil",
     "Projetos práticos com foco em backend",
-    "Evoluindo em Node.js, NestJS e Cloud",
+    "Evoluindo em Node.js e NestJS",
     "ETEC Embu - Redes de Computadores"
   ],
 
@@ -109,6 +110,7 @@ Busco minha primeira oportunidade como desenvolvedor, com foco em desenvolviment
 ✔ Boa comunicação e trabalho em equipe  
 ✔ Projetos práticos e evolução constante  
 ✔ Conhecimento em redes de computadores  
+✔ Trabalho como Garçom (comunicação forte)
 
 ---
 
