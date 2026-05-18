@@ -24,15 +24,10 @@
 # 💡 Sobre mim
 
 ```typescript
-const danielMacedo = {
+const Daniel Macedo = {
   role: "Desenvolvedor Full Stack",
   foco: "Backend com Node.js e NestJS",
   local: "São Paulo - Brasil 🇧🇷",
-
-  experiencia: [
-    "Professor de Programação e Robótica",
-    "Ex-estagiário Full Stack (Compass UOL)"
-  ],
 
   atualmente: [
     "Bootcamp Generation Brasil",
