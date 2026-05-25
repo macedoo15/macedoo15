@@ -124,7 +124,7 @@ Busco minha primeira oportunidade como desenvolvedor, com foco em desenvolviment
 
 <div align="center">
 
-![Visualizações](https://komarev.com/ghpvc/?username=macedoo15&base=10000000&label=Visualiza%C3%A7%C3%B5es&color=7C3AED&style=flat)
+![Visualizações](https://komarev.com/ghpvc/?username=macedoo15&base=289&label=Visualiza%C3%A7%C3%B5es&color=7C3AED&style=flat)
 
 
 </div>
